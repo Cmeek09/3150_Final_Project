@@ -2,6 +2,8 @@
 
 ### About the project
 
+**Please look at the final.ipynb to view my project, the backup isn't important for the project, just peices of code I wanted to keep.**
+
 There are some folders labeled "data",  which contain some images and pictures I've used testing and comparing with some of the different functionality from the given programs.  
 Likewise, the "models" folder contains data for the SVM classifier and the an additional file for the for normalizing the vector values going into the model.
 Both were from the libsvm python library, I did have to create a folder for the data to be accessible in the notebook.  This is most likely due to how my enviroment is configured on my laptop.
